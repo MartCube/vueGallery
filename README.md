@@ -1,6 +1,6 @@
-# project-G
+# vue-gallery
 
-> My grand Nuxt.js project
+> image gallery build with vue
 
 ## Build Setup
 
